@@ -10,6 +10,13 @@
 * {
     margin: 0;
     padding: 0;
+
+   /* font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    */
+ 
 }
 
 html {
@@ -27,6 +34,15 @@ body {
     background-color: var(--background-color);
     max-width: 1000px;
     margin: auto;
+
+         
+  
+        font-family: "Satisfy", cursive;
+        font-weight: 400;
+        font-style: normal;
+    
+            
+
 
     /* background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
         url("fotos/fondo-flores.jpg");
